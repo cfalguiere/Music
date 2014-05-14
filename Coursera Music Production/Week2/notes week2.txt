@@ -1,0 +1,22 @@
+
+introduction 
+
+sample rate 48 000 kHz
+wordlength or BitDepth24 Bits 
+input and output device
+recording file type  Broadbanc WAV ou BWF or aiff
+interleaved
+buffer size : (128 to 256 samples) augmenter si nécessaire
+
+audio tracks
+check settings
+create a track type of track audio ou stereo (mono le plus souvent)
+nommer proprement
+record enable - attention peut faire un feedback
+set the levels
+ensure click is on and countoff (bars)
+record
+
+
+
+reflection
